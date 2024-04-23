@@ -1,0 +1,19 @@
+{
+  "name": "pt1_multi",
+  "version": "1.0.0",
+  "description": "testing pt1_multi",
+  "main": "pt1_multi.js",
+  "scripts": {
+  "start": "node pt1_multi.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}
